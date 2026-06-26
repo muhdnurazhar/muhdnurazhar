@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Nur Azhar
 
-**Aspiring Network & Infrastructure Engineer** | Fresh Graduate in Computer Systems & Networking
+**Aspiring Network & Infrastructure Engineer** | Fresh Graduate Diploma in Computer Systems & Networking
 
 I am passionate about building **secure, reliable, and automated multi-site enterprise networks** using Cisco, Windows Server, and Linux.
 

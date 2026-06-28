@@ -34,7 +34,7 @@ I am passionate about building **secure, reliable, and automated multi-site ente
 - **[Debian Secure Infrastructure](https://github.com/muhdnurazhar/Debian-Secure-Infrastructure)**  
   Resilient Linux enterprise environment (OSPF + IPsec, LDAP, HAProxy, BIND9 DDNS, nftables)
 
-## 📌 What I'm Learning Next
+## What I'm Learning Next
 - Network Automation (Python + Netmiko)
 - Cloud Networking (AWS & Azure)
 - Advanced Security (Zero Trust, ISE)
@@ -42,7 +42,6 @@ I am passionate about building **secure, reliable, and automated multi-site ente
 ---
 
 **Connect with me:**
-- [LinkedIn](https://linkedin.com/in/your-profile)  
+- [LinkedIn](www.linkedin.com/in/muhdnurazhar)  
 - Email: muhdnurazhaa@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhdnurazhar&show_icons=true&theme=radical)

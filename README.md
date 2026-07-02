@@ -4,7 +4,7 @@
 
 I am passionate about building **secure, reliable, and automated multi-site enterprise networks** using Cisco, Windows Server, and Linux.
 
-## 🛠 Skills & Technologies
+## Skills Technologies
 
 ### Networking (Cisco)
 - Routing & Switching (EIGRP, OSPF/OSPFv3, eBGP, HSRP, VTP, EtherChannel)
@@ -23,7 +23,7 @@ I am passionate about building **secure, reliable, and automated multi-site ente
 - Email Server (Postfix + Dovecot), Ansible Playbooks (YAML)
 - High Availability & Zero-Trust Design
 
-## 🚀 Featured Projects
+## Projects Implementation
 
 - **[Cisco Enterprise Network Architecture](https://github.com/muhdnurazhar/Cisco-Enterprise-Network-Architecture)**  
   Multi-site secure network with EIGRP, OSPFv3, eBGP, DMVPN and Certificate-based IPsec VPN
@@ -34,10 +34,7 @@ I am passionate about building **secure, reliable, and automated multi-site ente
 - **[Debian Secure Infrastructure](https://github.com/muhdnurazhar/Debian-Secure-Infrastructure)**  
   Resilient Linux enterprise environment (OSPF + IPsec, LDAP, HAProxy, BIND9 DDNS, nftables)
 
-## What I'm Learning Next
-- Network Automation (Python + Netmiko)
-- Cloud Networking (AWS & Azure)
-- Advanced Security (Zero Trust, ISE)
+Actively seeking opportunities to apply and further develop these skills through hands-on projects and professional training provided by the company.
 
 ---
 

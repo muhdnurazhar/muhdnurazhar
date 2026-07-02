@@ -36,7 +36,7 @@ I am passionate about building **secure, reliable, and automated multi-site ente
   
 ## Experiences
 
-- **[Experiences]([https://github.com/muhdnurazhar/Cisco-Enterprise-Network-Architecture](https://github.com/muhdnurazhar/experience))** 
+- **[Experiences](https://github.com/muhdnurazhar/experience)** 
   Hands-on experience in IT networking through industrial training, competition preparation, and judging roles. Focused on practical skills in system administration, troubleshooting, and technical training.
   
 Actively seeking opportunities to apply and further develop these skills through hands-on projects and professional training provided by the company.

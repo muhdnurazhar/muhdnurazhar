@@ -42,6 +42,6 @@ I am passionate about building **secure, reliable, and automated multi-site ente
 ---
 
 **Connect with me:**
-- [LinkedIn](www.linkedin.com/in/muhdnurazhar)  
+- [LinkedIn](https://www.linkedin.com/in/muhdnurazhar)  
 - Email: muhdnurazhaa@gmail.com
 
